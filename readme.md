@@ -6,4 +6,4 @@
 
 **Qualquer ajuda ou sugestão favor me informar.**
 
-(Dev Aprender[https://www.youtube.com/watch?v=CQF6DQefT7g&list=WL&index=5&t=5s&ab_channel=DevAprender])
+<https://www.youtube.com/watch?v=CQF6DQefT7g&list=WL&index=5&t=5s&ab_channel=DevAprender>
